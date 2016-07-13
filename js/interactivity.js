@@ -20,10 +20,9 @@ jQuery("#helpbtn").on("click", function() {
 });
 
 function registerScore(score) {
-  console.log("2");
   //if(score>5) {
     //alert(score);
-    var playerName = prompt("What's your name?");
-    var scoreEntry = "<li>" + playerName + ":" + score.toString() + "</li>";
+    //var playerName = prompt("What's your name?");
+    //var scoreEntry = "<li>" + playerName + ":" + score.toString() + "</li>";
 //  }
 }
